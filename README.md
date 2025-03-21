@@ -42,6 +42,7 @@ Acredito que a tecnologia deve **dialogar com a natureza**, **respeitar contexto
 
 Atualmente colaboro com projetos voltados à:
 
+- Análise de sinais sísmicas
 - Desenvolvimento de ferramentas para **monitoramento inteligente de ambientes**
 - Pesquisa em **aquicultura**, com foco em algoritmos para detectar a alimentação de camarões
 - Análise de dados acústicos de **monitoramento passivo de longa duração**
