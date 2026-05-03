@@ -1,10 +1,10 @@
 # 👋 Olá, meu nome é Ignacio Sánchez-Gendriz!
 
-Sou pesquisador do **Centro de Tecnologias Estratégicas do Nordeste (CETENE)**, unidade de pesquisa do **Ministério da Ciência, Tecnologia e Inovação (MCTI)**. Também tenho experiência como professor universitário e atuo na interface entre pesquisa aplicada, desenvolvimento tecnológico e formação científica.
+Sou pesquisador do **Centro de Tecnologias Estratégicas do Nordeste (CETENE)**, unidade de pesquisa do **Ministério da Ciência, Tecnologia e Inovação (MCTI) do Brasil**. O CETENE atua no desenvolvimento científico e tecnológico em áreas estratégicas para a região Nordeste e para o país, promovendo pesquisa aplicada, inovação e soluções tecnológicas alinhadas a demandas sociais, ambientais e produtivas.
 
-Meu trabalho combina **Ciência de Dados**, **Inteligência Artificial**, **Machine Learning**, **Processamento Digital de Sinais (DSP)** e **Computação Aplicada** para resolver problemas reais em áreas como monitoramento ambiental, bioacústica, sensores, aquicultura, geociências e sistemas inteligentes.
+Meu trabalho combina **Ciência de Dados**, **Inteligência Artificial**, **Machine Learning**, **Processamento Digital de Sinais (DSP)** e **Computação Aplicada** para resolver problemas reais em áreas como monitoramento ambiental, bioacústica, sensores, aquicultura, geociências e sistemas inteligentes. Também tenho experiência como professor universitário e atuo na interface entre pesquisa aplicada, desenvolvimento tecnológico e formação científica.
 
-Tenho especial interesse em soluções que conectem dados, algoritmos e aplicações práticas, com foco em métodos eficientes, interpretáveis e aplicáveis em contextos reais.
+Tenho especial interesse em soluções que conectem dados, algoritmos e aplicações práticas, com foco em métodos eficientes, interpretáveis e aplicáveis a contextos reais.
 
 ---
 
